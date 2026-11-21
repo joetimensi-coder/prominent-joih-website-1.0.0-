@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PROMINENT JOIH website + Gmail contact form
 
 ## Structure
@@ -35,3 +36,7 @@ Add the .env values as the host's "Environment Variables" instead of uploading .
 
 ## 4. Optional
 - WhatsApp button: set WHATSAPP_NUMBER at the top of public/script.js (e.g. '2348012345678').
+=======
+# prominent-joih-website-1.0.0-
+A responsive website for an organic fertilizer business, designed to showcase products, provide information about their benefits, and make it easy for customers to make enquiries and place orders.
+>>>>>>> 33cf74e4d9480d1cbf2cb975a794d3a0fb371420
